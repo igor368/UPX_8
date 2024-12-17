@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "UPX.sln"
+    "dotnet.defaultSolution": "UPX_8.sln"
 }
